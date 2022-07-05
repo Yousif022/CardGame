@@ -1,2 +1,2 @@
 # spider
-Spider solitaire WP7/WP8 app
+Card Game WP7/WP8 app
